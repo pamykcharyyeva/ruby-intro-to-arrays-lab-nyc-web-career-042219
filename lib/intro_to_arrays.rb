@@ -1,7 +1,5 @@
   
   def instaniate_new_array
-    @my_new_array = instaniate_new_array
-  end
     Array.new
   end
 
